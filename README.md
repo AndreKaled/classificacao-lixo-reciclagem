@@ -9,4 +9,4 @@ trabalho 02 de Fundamentos de Inteligência Artificial
 - Marcus Phablo Pereira de Oliveira (marcus.oliveira@icomp.ufam.edu.br)
 
 ## Info
-Dataset compactado em ```data/```, basta descompactar que haverá as 6 pastas.
+Caso importe um modelo pronto, compacte em zip junto com o history do modelo, ao abrir o Google Colab, anexe no arquivo do ambiente de execução e carregue o modelo na seção `Importar modelo e histórico`, em seguida execute as seções de `avaliação do modelo`
