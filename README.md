@@ -9,4 +9,4 @@ trabalho 02 de Fundamentos de Inteligência Artificial
 - Marcus Phablo Pereira de Oliveira (marcus.oliveira@icomp.ufam.edu.br)
 
 ## Info
-Caso importe um modelo pronto, compacte em zip junto com o history do modelo, ao abrir o Google Colab, anexe no arquivo do ambiente de execução e carregue o modelo na seção `Importar modelo e histórico`, em seguida execute as seções de `avaliação do modelo`
+Caso queira testar um modelo treinado previamente, há uma seção específica para importar (o processo de download está automatizado, bastando apenas executar o bloco de importação), se não desejar continuar com o treinamento do modelo, pode ignorar a seção de treinamento.
