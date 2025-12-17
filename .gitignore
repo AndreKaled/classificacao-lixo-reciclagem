@@ -1,6 +1,10 @@
+.venv/
 cardboard/
 glass/
 metal/
 paper/
 plastic/
 trash/
+modelo_extraido/
+*.json
+*.keras
